@@ -104,15 +104,6 @@ src
 * Service-layer business logic design
 * Environment variable configuration for secure API key management
 
-## Future Improvements
-
-* JWT Authentication
-* User Accounts
-* Conversation Sessions
-* Conversation Search
-* Message Pagination
-* React Frontend
-
 ## Author
 
 John Fabrice Imorin | Computer Science Student | Junior Backend Developer
